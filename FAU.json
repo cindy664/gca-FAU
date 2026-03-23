@@ -35,7 +35,7 @@
   {
     "item": "explore-tracks",
     "credits": "6 FAU credits",
-    "abbreviationl": "FAU",
+    "abbreviation": "FAU",
     "registrationMessage": "Registration is now open."
   },
   {
@@ -105,7 +105,7 @@
   {
     "item": "begin",
     "credits": "6 FAU credits",
-    "abbreviationl": "FAU",
+    "abbreviation": "FAU",
     "phone": "(561) 299-3035"
   }
 ]
