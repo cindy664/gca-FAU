@@ -2,7 +2,7 @@
   {
     "item": "home",
     "schoolname": "Florida Atlantic University",
-    "abbreviationExternal": "FAU",
+    "abbreviation": "FAU",
     "genericProgramName": "The Global Career Accelerator",
     "secondaryBrandColor": "#CC0000",
     "primaryBrandColor": "#013366",
@@ -23,7 +23,7 @@
     "schoolname": "Florida Atlantic University",
     "genericProgramName": "The Global Career Accelerator",
     "schoolFullAddress": "Gladys Davis Pavilion, W University Dr, Boca Raton, FL 33431",
-    "abbreviationExternal": "FAU",
+    "abbreviation": "FAU",
     "phone": "(561) 299-3035",
     "credits": "6 FAU credits",
     "programFee": "+ 1,800",
@@ -35,7 +35,7 @@
   {
     "item": "explore-tracks",
     "credits": "6 FAU credits",
-    "abbreviationExternal": "FAU",
+    "abbreviationl": "FAU",
     "registrationMessage": "Registration is now open."
   },
   {
@@ -43,7 +43,7 @@
     "schoolname": "Florida Atlantic University",
     "trackTitle": "Digital Marketing Track",
     "credits": "6 FAU credits",
-    "abbreviationExternal": "FAU",
+    "abbreviation": "FAU",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "ISM 4930 (CRN: 14176) / GEB 4956 (CRN: 14173)",
     "courseCode2": "ISM 4930 (CRN: 14176) / GEB 4956 (CRN: 14173)",
@@ -62,7 +62,7 @@
     "schoolname": "Florida Atlantic University",
     "trackTitle": "Web Development for Everyone Track",
     "credits": "6 FAU credits",
-    "abbreviationExternal": "FAU",
+    "abbreviation": "FAU",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "ISM 4930 (CRN: 14176) / GEB 4956 (CRN: 14173)",
     "courseCode2": "ISM 4930 (CRN: 14176) / GEB 4956 (CRN: 14173)",
@@ -81,7 +81,7 @@
     "schoolname": "Florida Atlantic University",
     "trackTitle": "Data Analytics Track",
     "credits": "6 FAU credits",
-    "abbreviationExternal": "FAU",
+    "abbreviation": "FAU",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "ISM 4930 (CRN: 14176) / GEB 4956 (CRN: 14173)",
     "courseCode2": "ISM 4930 (CRN: 14176) / GEB 4956 (CRN: 14173)",
@@ -100,12 +100,12 @@
     "programName": "FAU Global Career Accelerator",
     "registrationMessage": "Registration is now open.",
     "phone": "(561) 299-3035",
-    "abbreviationExternal": "FAU"
+    "abbreviation": "FAU"
   },
   {
     "item": "begin",
     "credits": "6 FAU credits",
-    "abbreviationExternal": "FAU",
+    "abbreviationl": "FAU",
     "phone": "(561) 299-3035"
   }
 ]
